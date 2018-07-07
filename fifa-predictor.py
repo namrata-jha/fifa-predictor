@@ -122,7 +122,7 @@ print('\nThe accuracy of the predictions by the ANN model on the test set = {}'.
 #Implementing the model on user input
 print('------------------PREDICT MATCH RESULTS------------------')
 print('This predictor predicts FIFA match results for popular teams between 1930-2014.')
-print('Some of the stages are Group A-H, Quarter finals, Semi finals, Finals. For others, refer to the attached dataset.' )
+print('Some of the stages are Group A-H, Quarter-finals, Semi-finals, Final. For others, refer to the attached dataset.' )
 
 while True:
     test_year = input('\nEnter the year of match: ')
